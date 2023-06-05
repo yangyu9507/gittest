@@ -3,11 +3,7 @@
 
 
 
-
-
-
-![image-20230604213511604](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230604213511604.png)
-
+ ![image](https://github.com/yangyu9507/gittest/assets/54801946/97c91845-d79a-42cd-b2e6-9a1487cbbca2)
 
 
 Git配置
@@ -37,7 +33,8 @@ $ git commit Test.java
 
 工作区和暂存区
 
-![image-20230604224137229](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230604224137229.png)
+ ![image](https://github.com/yangyu9507/gittest/assets/54801946/74a5b380-27e3-4e2c-b473-376a26c8917f)
+
 
 
 
@@ -173,9 +170,7 @@ New SSH key
 # 将 id_rsa.pub 公钥 的内容添加到 key 中
 ```
 
-![image-20230604233526867](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230604233526867.png)
-
-
+![image](https://github.com/yangyu9507/gittest/assets/54801946/759f182b-5001-4392-b980-1bc306c4a767)
 
 ```shell
 # Push到 github
@@ -213,9 +208,9 @@ branch 'master' set up to track 'origin/master'.
 
 使用TortoiseGit同步到远程仓库
 
-![](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230605000341230.png)
+![image](https://github.com/yangyu9507/gittest/assets/54801946/639c20b2-bb03-4b36-9099-0e684c4f0a30)
 
-![image-20230604235533934](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230604235533934.png)
+![image](https://github.com/yangyu9507/gittest/assets/54801946/0bf2d8c1-4829-4d51-8859-c989056c062c)
 
 
 
@@ -233,9 +228,7 @@ $ git commit eee.txt -m eee.ttt
 
  推送  拉取 都可以
 
-![image-20230605000420759](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230605000420759.png)
-
-
+![image](https://github.com/yangyu9507/gittest/assets/54801946/0560ca10-ec67-499b-b622-b04708e57e2b)
 
 从远程创建取代码 
 
